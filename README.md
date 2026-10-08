@@ -7,8 +7,3 @@ Frameworks  used :
 
 Libraries used:
 * Pydantic
-
-
-
-
-
